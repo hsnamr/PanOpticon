@@ -1,6 +1,6 @@
 # PanOpticon - Interaction Statistics REST API
 
-Public API service for interaction statistics, exposing customer interaction metrics, agent performance, Promise compliance, and fulfillment survey data. Uses **Fediverse** (ActivityPub), **Signal**, **MinIO**, and **Redis** with **Kafka** for job processing.
+Public API service for interaction statistics. Uses **Fediverse** (ActivityPub), **Signal**, **MinIO**, and **Redis** with **Kafka** for job processing.
 
 ## Tech Stack
 
